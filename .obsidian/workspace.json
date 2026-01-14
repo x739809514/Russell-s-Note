@@ -11,14 +11,10 @@
             "id": "af1eefcb26ee266b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/NVim.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "NVim"
+              "title": "New tab"
             }
           }
         ]
@@ -180,16 +176,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "af1eefcb26ee266b",
+  "active": "fd91146604fe7bd8",
   "lastOpenFiles": [
+    "网络管理/CSharp WebApp Api.md",
+    "Linux/NVim Command&Shortcuts.md",
+    "Linux/Command.md",
+    "Linux",
+    "Monster.md",
     "Linux/Commands.md",
     "Linux/NVim.md~",
-    "Linux/NVim.md",
     "Untitled.md",
     "BackEnd/CSharp WebApp Api.md",
-    "Linux",
     "未命名.base",
-    "BackEnd",
-    "Monster.md"
+    "BackEnd"
   ]
 }
