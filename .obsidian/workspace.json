@@ -11,10 +11,14 @@
             "id": "af1eefcb26ee266b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux/NVim.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "NVim"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -167,15 +171,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "af1eefcb26ee266b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Linux/Commands.md",
+    "Linux/NVim.md~",
+    "Linux/NVim.md",
+    "Untitled.md",
+    "BackEnd/CSharp WebApp Api.md",
+    "Linux",
+    "未命名.base",
+    "BackEnd",
+    "Monster.md"
+  ]
 }
