@@ -12,8 +12,8 @@ ASP.NET Core uses the **Builder Pattern** to configure applications.
 ## 2. Database Core Concepts (EF Core)
 ### 2.1 DbContext & DbSet
 *   **DbContext**: The "steward" of the database, responsible for connection management and transaction commits.
-*   **DbSet<T>**: Represents **a single table** in the database. It's not just a container but also the starting point for **IQueryable** queries.
-*   **[Column] Attribute**: Used to precisely control how C# properties map to database columns (e.g., changing column names, specifying `decimal(18,2)` precision).
+*   **DbSet<'T'>**: Represents **a single table** in the database. It's not just a container but also the starting point for **IQueryable** queries.
+*   **Attribute**: Used to precisely control how C# properties map to database columns (e.g., changing column names, specifying `decimal(18,2)` precision).
 
 ### 2.2 Migrations
 *   **Essence**: A "version control system" for the database.
