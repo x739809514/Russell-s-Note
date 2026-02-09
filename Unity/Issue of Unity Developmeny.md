@@ -1,5 +1,3 @@
-
-
 ## IPointerEnter/Exit Flickering with Collider2D
 
 **Problem:** When using `IPointerEnter` and `IPointerExit` with Collider2D objects, the events trigger Enter then immediately Exit even when the mouse remains inside the collider bounds.
