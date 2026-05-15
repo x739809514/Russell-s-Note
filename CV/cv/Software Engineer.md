@@ -1,60 +1,45 @@
-**JIALIANG XIN**
+# JIALIANG XIN
 
-**Dublin, Ireland** **+353 872652384** **russell.xin@yahoo.com | [github.com/x739809514](https://www.google.com/search?q=https://github.com/x739809514)**
-
----
-
-### **EXPERIENCE**
-
-**LUNAMI GAMES** | **Dublin, Ireland** **Technical Lead / Senior Software Engineer** **June 2025 – Present**
-
-- **Architected** a scalable core framework using MVC and event-driven patterns, integrating FSM-based AI and progression systems. 
-    
-- **Managed** memory optimization through Object Pooling architecture, resulting in a 20% reduction in memory consumption. 
-    
-- **Created** a custom narrative and camera editor using C#/.NET, which reduced content creation time by 67%. 
-    
-- **Established** CI/CD pipelines using GitHub Actions and Unity Cloud Build, reducing deployment time by 40%. 
-    
-- **Directed** render pipeline and batching optimizations that achieved a 233% improvement in frame rates (30 to 100+ FPS). 
-    
-
-**TECHNICAL PROJECTS (C++)** | **Remote/Personal** **Physically Based Path Tracing Renderer**
-
-- **Implemented** Monte Carlo integration for realistic light distribution and solved global illumination via importance sampling. 
-    
-- **Managed** complex memory layouts using RAII and Smart Pointers to ensure zero memory leaks. 
-    
-- **Collaborated** with multi-threaded intersection engines to achieve physically accurate rendering with soft shadows and specular reflections. 
-    
-- **Additional impact**: Achieved high-fidelity rendering of spheres and planes through optimized C++ systems. 
-    
-
-**TECHNICAL PROJECTS (C++)** | **Remote/Personal** **High-Performance Bullet Hell Engine**
-
-- **Created** a memory-aligned Entity Component System (ECS) to handle high-concurrency entity processing. 
-    
-- **Established** a CI/CD pipeline via GitHub Actions and CMake for automated cross-platform builds and unit testing. 
-    
-- **Led** the development of a custom GLSL-based batch rendering system to maintain a stable 144 FPS with 5,000+ active entities. 
-    
+**Technical Research Engineer | AI Agentic Workflow Architect** Dublin, Ireland | [russell.xin@yahoo.com](mailto:russell.xin@yahoo.com) | +353 872652384 [github.com/x739809514](https://www.google.com/search?q=https://github.com/x739809514) | [linkedin.com/in/jialiang-xin](https://www.linkedin.com/in/jialiang-xin-0b496a263/) | Stamp 1G (Full Working Rights)
 
 ---
+### TECHNICAL PROFILE
 
-### **EDUCATION**
+**Innovative Technical Research Engineer (MSc IoT, DCU)** with a track record of transforming emerging technologies into enterprise-grade capabilities. **Expert in Python** and **Agentic AI Orchestration**, specializing in building **OpenClaw & MCP** workflows that delivered a **100% efficiency boost** through multi-agent collaboration (Codex, Qwen, ComfyUI). Adept at technical-readiness research, **Agile/SDLC** methodologies, and scaling disruptive AI solutions to drive business value.
+- **AI & Agents:** OpenClaw (Orchestration), Multi-Agent Systems, MCP (Model Context Protocol), LangGraph (Research), Prompt Engineering.
+- **Tech Stack:** **Python (Expert)**, TypeScript, C#/.NET 8, SQL, Pandas, NumPy, PyQt.
+- **DevOps & Cloud:** Agile (Scrum/Kanban), CI/CD (GitHub Actions), Docker, AWS (EC2/S3), Datadog (Observability).
+---
+### PROFESSIONAL EXPERIENCE
 
-**DUBLIN CITY UNIVERSITY** | **Dublin, Ireland** Master of Science; Major in Electronic and Computer Technology (IoT) **2024**
+**LUNAMI GAMES** | AI Workflow Engineer | Dublin _June 2025 – Present_
 
-**JIAXING NANHU UNIVERSITY** | **Jiaxing, China** Bachelor of Science; Major in Computer Science and Technology **2021**
+- **Agentic AI Orchestration & Research:** Architected a comprehensive AI workflow using **OpenClaw** as the reasoning engine to automate complex business logic.
+    - **Custom Tooling:** Developed a library of **Python-based "Skills"** for automated CSV analysis and metadata extraction.
+    - **Agent Collaboration:** Integrated specialized sub-agents (**Codex** for refactoring, **Qwen** for technical writing, **ComfyUI** for asset gen), achieving a **100% increase in team productivity**.
+- **Technical Readiness Evaluation:** Conducted deep-dive research into **MCP (Model Context Protocol)** to evaluate its applicability for real-time data ingestion, aligning tech-readiness with commercial opportunities.
+- **Technical Communication:** Acted as the bridge between R&D and stakeholders, translating complex AI research into actionable business insights and vertical capabilities.
+---
+### KEY TECHNICAL RESEARCH PROJECTS
+
+**Open-Source Agentic Skill Toolset | Developer (Python)** _[github.com/x739809514/Russell-s-Csv](https://github.com/x739809514/Russell-s-Csv)_
+
+- **Context:** Identified a need for high-performance, lightweight data processing "Skills" for autonomous AI agents.
+- **Action:** Developed a **Python** utility (Pandas/PyQt) for large-scale CSV ingestion and relational mapping, focusing on efficient memory management.
+- **Result:** Created a reusable asset for the AI innovation pipeline, allowing agents to perform database-level operations on unstructured flat files.
+
+**IoT Infrastructure & Data Research | Lead Developer**
+
+- **Experimentation:** Managed **AWS EC2/S3** environments to test the technical readiness of containerized (**Docker**) inference models.
+- **Continuous Improvement:** Implemented automated monitoring and diagnostic workflows to ensure the stability of emerging tech prototypes.
+---
+### EDUCATION
+
+**MSc in Electronic and Computer Technology (IoT)** | _Dublin City University (DCU)_ | 2024
+**BSc in Computer Science and Technology** | _Jiaxing Nanhu University_ | 2021
 
 ---
+### ADDITIONAL SKILLS & TOOLS
 
-### **ADDITIONAL INFORMATION**
-
-- **Awards:** Results-oriented Software Engineer with a proven track record in optimizing complex rendering pipelines. 
-    
-- **Certifications:** Expert in C#/.NET architecture and proficient in C++ systems programming. 
-    
-- **Community Involvement:** Authorized to work in Ireland (Stamp 1G). 
-    
-- **Languages:** C# (Expert), C++ (Proficient), Python (Basic). 
+- **AI Ecosystem:** GitHub Copilot, ChatGPT, Claude Code, AgentCore (Active Research).
+- **Software Engineering:** SOLID, Design Patterns (MVC, ECS), Technical Documentation, Mentorship.

@@ -1,4 +1,4 @@
-*   **Initial Goal:** The user wanted to open Obsidian, installed via Linux Mint's Software Manager, using the bash terminal.
+mkdir*   **Initial Goal:** The user wanted to open Obsidian, installed via Linux Mint's Software Manager, using the bash terminal.
 *   **Common Launch Methods Explored (Initial Recommendations):**
     *   Trying the simple executable name (e.g., `obsidian`).
     *   Using `flatpak run <App ID>` if installed as a Flatpak (which is common in Mint).
