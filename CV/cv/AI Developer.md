@@ -1,30 +1,55 @@
 # JIALIANG XIN
 
-Full Stack Developer | AI Tool Developer
-Dublin, Ireland | russell.xin@yahoo.com | +353 872652384
-Visa Status: Stamp 1G (Full Working Rights in Ireland) 
-GitHub: [github.com/x739809514](https://www.google.com/search?q=https://github.com/x739809514) | LinkedIn: [linkedin.com/in/jialiang-xin-0b496a263/](https://www.google.com/search?q=https://linkedin.com/in/jialiang-xin-0b496a263/)
+**AI Tools Developer | AI Application Developer**  
+Dublin, Ireland | russell.xin@yahoo.com | +353 872652384  
+Visa Status: Stamp 1G, Full Working Rights in Ireland  
+GitHub: github.com/x739809514 | LinkedIn: linkedin.com/in/jialiang-xin-0b496a263/
 
 ## PROFILE
 
-Full-stack developer focused on building AI-assisted internal tools, workflow automation, and game production pipelines. Experienced in using LLM APIs, Codex, OpenClaw, Discord integrations, and Python/C# tooling to prototype and deliver practical tools for narrative design, data editing, and team automation. Strong at turning unclear workflow problems into usable tools with fast iteration and measurable production impact.
+AI Tools Developer with experience building LLM-assisted internal tools, workflow automation, and game production pipelines. Skilled in integrating LLM APIs, Python/C# tooling, Discord bots, and AI agent workflows to solve practical production problems. Strong background in rapid prototyping, tool development, debugging, and working with designers and artists to improve content creation workflows.
 
 ## TECH STACK & SKILLS
 
-- **AI & Automation:** Codex, Claude, OpenClaw, LLM API integration, multi-agent workflows, ComfyUI workflows  
-- **Programming:** Python, C#, JavaScript/TypeScript, full-stack web development  
-- **Integrations:** Discord API, tool automation, local AI tool deployment, workflow scripting  
-- **Game Production Tools:** narrative editor, CSV editor, internal pipeline tools, designer-facing tools  
-- **Strengths:** rapid prototyping, debugging, workflow analysis, cross-functional collaboration
+**AI & Automation** : LLM API integration, Codex, Claude, OpenClaw, multi-model workflows, prompt-based tool automation
+**Programming** : Python, C#, JavaScript/TypeScript, Node.js, full-stack tool development
+**Tooling & Integration** : Discord API, internal tool automation, local AI deployment, workflow scripting, ComfyUI workflows
+**Production Tools** : Narrative editor, CSV editor, Data analysis tool
 
 ## WORK EXPERIENCE
 
-**Lunami Games** _Fullstack AI Tools Developer_ | [June,2025] – Present
-- **Multi-Model AI Narrative Engine:** Built a comprehensive AI-driven plot and novel editor to accelerate narrative design. Engineered a dynamic routing system supporting **Qwen 3.5, Grok, and Gemini 3 Flash APIs**, strategically selecting models based on genre nuances, language support, processing performance, and cost-efficiency. Designed complex context-parsing algorithms to auto-extract character sheets, lore, and outlines while strictly isolating context windows to prevent data pollution across parallel projects. Now serves as the primary narrative development tool for the team.
-- **Centralized AI Agent Hub (OpenClaw & Discord):** Solved internal tool fragmentation by architecting a centralized agent ecosystem. Deployed **OpenClaw** locally and converted dozens of scattered Python/C# scripts and ComfyUI workflows into callable AI "skills."
-    - _Zero-Friction UI:_ Built a Discord integration serving as the invocation entry point, allowing non-technical team members to trigger complex tools with zero local setup.
-    - _Cost & Performance Optimization:_ Designed a multi-agent orchestration architecture utilizing **MiniMax 2.5** as the reasoning "brain," delegating coding tasks to a **Codex** sub-agent and text processing to a **Qwen** sub-agent, significantly reducing API costs while boosting overall team velocity.
-- **Vibe-Coded Custom CSV Editor (Python):** Identified a critical workflow bottleneck where game designers were losing data using legacy CSV tools. Prototyped, iterated (4-5 versions), and shipped a lightweight, custom Python CSV editor in **under 5 hours** using **Codex**. Implemented auto-backups, third-party script integration, cell annotations, and visual data-relationship mapping. _Impact:_ Eradicated data-loss incidents and established the tool as a mandatory, daily-use asset in the studio's pipeline.
+**Lunami Games**  June 2025 – February 2026 | Programmer
+- Built AI-assisted internal tools and workflow automation systems to support the production of a publicly released Steam demo.
+- Integrated LLM APIs, Python/C# tools, Discord-based workflows, and AI-assisted development into the team’s production pipeline.
+- Improved narrative design, data editing, and gameplay analytics workflows by replacing repeated manual processes with custom internal tools.
+- Worked closely with designers and artists to identify production bottlenecks, prototype practical solutions, and turn them into daily-use tools.
+- Supported faster content iteration by building tools for narrative editing, CSV data management, and gameplay data analysis.
+
+## Select Projects
+
+#### AI Narrative Editor
+https://github.com/x739809514/nexus-story-creater
+- Built an internal narrative tool to help the team draft, organize, and edit story content for game production.
+- Integrated multiple LLM APIs including Qwen, Grok, Gemini, and MiniMax.
+- Added model routing based on task type, language needs, response speed, and cost.
+- Implemented project-level context handling, allowing the team to manage character sheets, lore, outlines, and story drafts without mixing data across projects.
+- Used by the team as part of the narrative development workflow.
+
+#### Custom CSV Editor
+https://github.com/x739809514/Russell-s-Csv
+ - Built a lightweight Python CSV editor for game data editing after identifying data-loss issues in the previous workflow.
+- Added auto-backup support to reduce the risk of losing designer-edited data.
+- Integrated third-party scripts into the editor workflow.
+- Added cell annotations and visual data-relationship mapping to make game data easier to understand and maintain.
+- Shipped the first usable version in under 5 hours with AI-assisted development.
+
+#### AI Gameplay Analytics Tool
+https://github.com/x739809514/data-analyse-tool
+- Built an AI-assisted gameplay analytics tool that connects in-game event tracking data to an AWS EC2 backend.
+- Collected gameplay event data from the Steam demo, including player actions, progression, and interaction-related data.
+- Integrated an LLM-based SQL generation workflow, allowing the team to query raw gameplay data without manually writing SQL.
+- Generated visual reports to help the team review player behaviour, understand gameplay patterns, and support design decisions.
+
 ## EDUCATION
 
 **MSc in Electronic & Computer Technology (Internet of Things)** _Dublin City University (DCU), Ireland_ | Graduated: 2024
