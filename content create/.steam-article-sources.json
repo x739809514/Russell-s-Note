@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://partner.steamgames.com/doc/features/playtest",
+      "title": "",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 2,
+      "url": "https://partner.steamgames.com/doc/store/application/demos",
+      "title": "",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 3,
+      "url": "https://partner.steamgames.com/doc/store/earlyaccess",
+      "title": "",
+      "accessed": "2026-10-07"
+    },
+    {
+      "id": 4,
+      "url": "https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest",
+      "title": "",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

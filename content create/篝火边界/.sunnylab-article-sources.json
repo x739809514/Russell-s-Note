@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://gamedevjourney.co.uk/home/developer-diaries/unity-diaries/the-witchs-bakery",
+      "title": "",
+      "accessed": "2026-10-09"
+    },
+    {
+      "id": 2,
+      "url": "https://game.udn.com/game/story/122089/7617246",
+      "title": "",
+      "accessed": "2026-10-09"
+    },
+    {
+      "id": 3,
+      "url": "https://sunnylabgames.com/press-relations",
+      "title": "",
+      "accessed": "2026-10-09"
+    },
+    {
+      "id": 4,
+      "url": "https://www.gamesradar.com/games/rpg/cozy-shop-management-rpg-inspired-by-kikis-delivery-service-persona-5-and-paris-is-absolutely-killing-it-on-kickstarter",
+      "title": "",
+      "accessed": "2026-10-09"
+    }
+  ]
+}
